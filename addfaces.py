@@ -1,4 +1,2 @@
-import cv2
-import pickle 
-import numpy as np 
-import os 
+import face_recognition
+print(face_recognition.__version__)
